@@ -1,4 +1,4 @@
-# E-Commerce Full Stack Project
+# E-Commerce Full Stack Project(focus backend)
 ## React, NodeJS, JWT and connect to Stripe Payment 
 ### structure of Backend:
 
