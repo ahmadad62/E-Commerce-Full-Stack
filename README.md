@@ -60,6 +60,18 @@
 
     Here's a brief explanation of each file:
 
+
+        E-Commerce-Full-Stack/routes
+        ├── auth.js
+        ├── cart.js
+        ├── order.js
+        ├── product.js
+        ├── stripe.js
+        ├── user.js
+        └── verifyToken.js
+
+
+
     *   `auth.js`: This file defines the authentication routes for your application, such as registering new users, logging in, and logging out.
       ``` NOTE: more information in README_Security.md```
 
